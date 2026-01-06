@@ -12,3 +12,8 @@ small things I learn about programming.
 
 ## Day 2
 - Learned the difference between `git pull` and `git pull --rebase`
+
+- -
+
+## Day 3
+- Learned how `git status` helps track file changes
