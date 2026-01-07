@@ -17,3 +17,8 @@ small things I learn about programming.
 
 ## Day 3
 - Learned how `git status` helps track file changes
+
+- - 
+
+## Day 4
+- Learned the difference between staged and unstaged changes in Git
