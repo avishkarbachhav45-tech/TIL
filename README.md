@@ -22,3 +22,8 @@ small things I learn about programming.
 
 ## Day 4
 - Learned the difference between staged and unstaged changes in Git
+
+- - 
+
+## Day 5
+- Wrote short notes on git add
