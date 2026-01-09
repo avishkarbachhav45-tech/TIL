@@ -27,3 +27,8 @@ small things I learn about programming.
 
 ## Day 5
 - Wrote short notes on git add
+
+- - 
+
+## Day 6
+- Learned how to check commit history using `git log`
