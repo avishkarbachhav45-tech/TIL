@@ -32,3 +32,8 @@ small things I learn about programming.
 
 ## Day 6
 - Learned how to check commit history using `git log`
+
+- - 
+
+## Day 7
+- Learned how to review changes using `git diff`
