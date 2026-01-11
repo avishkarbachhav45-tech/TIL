@@ -37,3 +37,8 @@ small things I learn about programming.
 
 ## Day 7
 - Learned how to review changes using `git diff`
+
+- - 
+
+## Day 8
+- Learned how to discard local changes using `git restore`
