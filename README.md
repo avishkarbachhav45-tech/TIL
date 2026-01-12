@@ -42,3 +42,8 @@ small things I learn about programming.
 
 ## Day 8
 - Learned how to discard local changes using `git restore`
+
+- - 
+
+## Day 9
+- Added first Python note on the print() function
