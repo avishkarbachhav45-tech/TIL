@@ -47,3 +47,8 @@ small things I learn about programming.
 
 ## Day 9
 - Added first Python note on the print() function
+
+- - 
+
+## Day 10
+- Learned basics of variables in Python
