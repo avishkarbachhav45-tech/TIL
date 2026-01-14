@@ -52,3 +52,8 @@ small things I learn about programming.
 
 ## Day 10
 - Learned basics of variables in Python
+
+- - 
+
+## Day 11
+- Learned how user input works in Python
