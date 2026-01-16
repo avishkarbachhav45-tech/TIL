@@ -57,3 +57,14 @@ small things I learn about programming.
 
 ## Day 11
 - Learned how user input works in Python
+
+- - 
+
+## Day 12
+- Learned basic conditional statements in Python
+
+
+- - 
+
+## Day 13
+- Learned basics of for loop in Python
