@@ -63,8 +63,12 @@ small things I learn about programming.
 ## Day 12
 - Learned basic conditional statements in Python
 
-
 - - 
 
 ## Day 13
 - Learned basics of for loop in Python
+
+- - 
+
+## Day 14
+- Learned basics of while loop in Python
