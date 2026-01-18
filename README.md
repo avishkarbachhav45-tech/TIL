@@ -72,3 +72,8 @@ small things I learn about programming.
 
 ## Day 14
 - Learned basics of while loop in Python
+
+- - 
+
+## Day 15
+- Learned basics of lists in Python
