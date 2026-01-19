@@ -77,3 +77,8 @@ small things I learn about programming.
 
 ## Day 15
 - Learned basics of lists in Python
+
+- - 
+
+## Day 16
+- Learned common operations on Python lists
