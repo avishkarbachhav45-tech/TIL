@@ -87,3 +87,8 @@ small things I learn about programming.
 
 ## Day 17
 - Learned basics of dictionaries in Python
+
+- - 
+
+## Day 18
+- Learned basics of functions in Python
