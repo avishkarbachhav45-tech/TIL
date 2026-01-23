@@ -97,3 +97,8 @@ small things I learn about programming.
 
 ## Day 19
 - Learned how function parameters and return values work
+
+- - 
+
+## Day 20
+- Learned basics of strings in Python
