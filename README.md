@@ -107,3 +107,8 @@ small things I learn about programming.
 
 ## Day 21
 - Learned common operations on strings in Python
+
+- - 
+
+## Day 22
+- Learned basic error handling using try-except
