@@ -112,3 +112,8 @@ small things I learn about programming.
 
 ## Day 22
 - Learned basic error handling using try-except
+
+- - 
+
+## Day 23
+- Learned basics of file handling in Python
