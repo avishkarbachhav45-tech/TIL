@@ -117,3 +117,8 @@ small things I learn about programming.
 
 ## Day 23
 - Learned basics of file handling in Python
+
+- - 
+
+## Day 24
+- Learned basic file modes in Python
