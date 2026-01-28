@@ -122,3 +122,8 @@ small things I learn about programming.
 
 ## Day 24
 - Learned basic file modes in Python
+
+- - 
+
+## Day 25
+- Learned basics of Python modules and import
