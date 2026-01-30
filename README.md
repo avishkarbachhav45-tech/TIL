@@ -130,3 +130,10 @@ small things I learn about programming.
 
 - - 
 
+## Day 26
+- Started DSA with basic understanding of arrays
+
+- - 
+
+## Day 27
+- Learned basic operations on arrays
