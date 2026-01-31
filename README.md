@@ -137,3 +137,8 @@ small things I learn about programming.
 
 ## Day 27
 - Learned basic operations on arrays
+
+- - 
+
+## Day 28
+- Learned basic linear search in arrays
