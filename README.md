@@ -142,3 +142,8 @@ small things I learn about programming.
 
 ## Day 28
 - Learned basic linear search in arrays
+
+- - 
+
+## Day 29
+- Learned basics of binary search
