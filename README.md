@@ -147,3 +147,8 @@ small things I learn about programming.
 
 ## Day 29
 - Learned basics of binary search
+
+- - 
+
+## Day 30
+- Learned basics of time complexity and Big-O notation
