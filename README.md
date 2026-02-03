@@ -152,3 +152,8 @@ small things I learn about programming.
 
 ## Day 30
 - Learned basics of time complexity and Big-O notation
+
+- - 
+
+## Day 31
+- Learned how to find maximum and minimum in an array
