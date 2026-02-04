@@ -157,3 +157,8 @@ small things I learn about programming.
 
 ## Day 31
 - Learned how to find maximum and minimum in an array
+
+- - 
+
+## Day 32
+- Learned basic logic to reverse an array
