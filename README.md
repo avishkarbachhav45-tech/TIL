@@ -162,3 +162,8 @@ small things I learn about programming.
 
 ## Day 32
 - Learned basic logic to reverse an array
+
+- - 
+
+## Day 33
+- Learned logic to find second largest element in an array
