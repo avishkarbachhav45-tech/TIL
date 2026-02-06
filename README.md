@@ -167,3 +167,8 @@ small things I learn about programming.
 
 ## Day 33
 - Learned logic to find second largest element in an array
+
+- - 
+
+## Day 34
+- Learned how to check if an array is sorted
