@@ -172,3 +172,8 @@ small things I learn about programming.
 
 ## Day 34
 - Learned how to check if an array is sorted
+
+- - 
+
+## Day 35
+- Learned basic logic to remove duplicates from a sorted array
