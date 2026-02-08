@@ -177,3 +177,8 @@ small things I learn about programming.
 
 ## Day 35
 - Learned basic logic to remove duplicates from a sorted array
+
+- - 
+
+## Day 36
+- Learned logic to move zeros to the end of an array
