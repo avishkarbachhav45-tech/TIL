@@ -182,3 +182,8 @@ small things I learn about programming.
 
 ## Day 36
 - Learned logic to move zeros to the end of an array
+
+- - 
+
+## Day 37
+- Learned logic to left rotate an array by one position
