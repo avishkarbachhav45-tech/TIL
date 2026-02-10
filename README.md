@@ -187,3 +187,8 @@ small things I learn about programming.
 
 ## Day 37
 - Learned logic to left rotate an array by one position
+
+- - 
+
+## Day 38
+- Learned basic idea of rotating an array by k positions
