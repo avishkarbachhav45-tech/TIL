@@ -192,3 +192,8 @@ small things I learn about programming.
 
 ## Day 38
 - Learned basic idea of rotating an array by k positions
+
+- - 
+
+## Day 39
+- Learned concept of majority element in arrays
