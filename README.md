@@ -197,3 +197,8 @@ small things I learn about programming.
 
 ## Day 39
 - Learned concept of majority element in arrays
+
+- - 
+
+## Day 40
+- Learned concept of union of two arrays
