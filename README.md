@@ -202,3 +202,8 @@ small things I learn about programming.
 
 ## Day 40
 - Learned concept of union of two arrays
+
+- - 
+
+## Day 41
+- Learned concept of intersection of two arrays
