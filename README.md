@@ -207,3 +207,8 @@ small things I learn about programming.
 
 ## Day 41
 - Learned concept of intersection of two arrays
+
+- - 
+
+## Day 42
+- Learned basic idea of prefix sum
