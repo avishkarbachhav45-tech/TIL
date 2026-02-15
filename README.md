@@ -212,3 +212,8 @@ small things I learn about programming.
 
 ## Day 42
 - Learned basic idea of prefix sum
+
+- - 
+
+## Day 43
+- Learned how prefix sum helps in range sum queries
