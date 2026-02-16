@@ -217,3 +217,8 @@ small things I learn about programming.
 
 ## Day 43
 - Learned how prefix sum helps in range sum queries
+
+- - 
+
+## Day 44
+- Learned basic idea of sliding window technique
