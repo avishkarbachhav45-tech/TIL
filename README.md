@@ -222,3 +222,8 @@ small things I learn about programming.
 
 ## Day 44
 - Learned basic idea of sliding window technique
+
+- - 
+
+## Day 45
+- Learned concept of fixed-size sliding window
