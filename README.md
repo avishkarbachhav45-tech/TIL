@@ -227,3 +227,8 @@ small things I learn about programming.
 
 ## Day 45
 - Learned concept of fixed-size sliding window
+
+- - 
+
+## Day 46
+- Learned idea of variable-size sliding window
