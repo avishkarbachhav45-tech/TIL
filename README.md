@@ -232,3 +232,8 @@ small things I learn about programming.
 
 ## Day 46
 - Learned idea of variable-size sliding window
+
+- - 
+
+## Day 47
+- Learned basic idea of two pointers technique
