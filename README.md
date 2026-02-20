@@ -237,3 +237,8 @@ small things I learn about programming.
 
 ## Day 47
 - Learned basic idea of two pointers technique
+
+- - 
+
+## Day 48
+- Learned concept of Two Sum problem
