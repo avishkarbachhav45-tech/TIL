@@ -242,3 +242,8 @@ small things I learn about programming.
 
 ## Day 48
 - Learned concept of Two Sum problem
+
+- - 
+
+## Day 49
+- Learned basic idea of hash maps in problem solving
