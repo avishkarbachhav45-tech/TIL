@@ -247,3 +247,8 @@ small things I learn about programming.
 
 ## Day 49
 - Learned basic idea of hash maps in problem solving
+
+- - 
+
+## Day 50
+- Learned sliding window approach for longest substring without repeating characters
