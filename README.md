@@ -252,3 +252,8 @@ small things I learn about programming.
 
 ## Day 50
 - Learned sliding window approach for longest substring without repeating characters
+
+- - 
+
+## Day 51
+- Learned Kadane's Algorithm for maximum subarray sum
