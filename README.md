@@ -257,3 +257,8 @@ small things I learn about programming.
 
 ## Day 51
 - Learned Kadane's Algorithm for maximum subarray sum
+
+- - 
+
+## Day 52
+- Learned how to find subarray with given sum using prefix sum and hashmap
