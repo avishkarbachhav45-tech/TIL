@@ -262,3 +262,8 @@ small things I learn about programming.
 
 ## Day 52
 - Learned how to find subarray with given sum using prefix sum and hashmap
+
+- 
+
+## Day 53
+- Learned how to find longest subarray with sum K
