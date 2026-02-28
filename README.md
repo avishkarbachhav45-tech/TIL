@@ -267,3 +267,8 @@ small things I learn about programming.
 
 ## Day 53
 - Learned how to find longest subarray with sum K
+
+- - 
+
+## Day 54
+- Learned how to count subarrays with sum K
