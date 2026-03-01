@@ -272,3 +272,8 @@ small things I learn about programming.
 
 ## Day 54
 - Learned how to count subarrays with sum K
+
+- - 
+
+## Day 55
+- Learned how to detect subarray with sum zero
