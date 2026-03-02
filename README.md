@@ -277,3 +277,8 @@ small things I learn about programming.
 
 ## Day 55
 - Learned how to detect subarray with sum zero
+
+- - 
+
+## Day 56
+- Learned concept of maximum product subarray
