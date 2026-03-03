@@ -282,3 +282,8 @@ small things I learn about programming.
 
 ## Day 56
 - Learned concept of maximum product subarray
+
+- - 
+
+## Day 57
+- Learned basics of stack data structure
