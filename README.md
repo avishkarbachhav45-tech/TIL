@@ -287,3 +287,8 @@ small things I learn about programming.
 
 ## Day 57
 - Learned basics of stack data structure
+
+- - 
+
+## Day 58
+- Learned concept of Next Greater Element using stack
