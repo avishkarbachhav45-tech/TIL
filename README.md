@@ -292,3 +292,8 @@ small things I learn about programming.
 
 ## Day 58
 - Learned concept of Next Greater Element using stack
+
+- - 
+
+## Day 59
+- Learned how stack is used to check balanced parentheses
