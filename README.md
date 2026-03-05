@@ -297,3 +297,5 @@ small things I learn about programming.
 
 ## Day 59
 - Learned how stack is used to check balanced parentheses
+
+- - 
