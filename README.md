@@ -299,3 +299,6 @@ small things I learn about programming.
 - Learned how stack is used to check balanced parentheses
 
 - - 
+
+## Day 60
+- Learned queue basics
