@@ -302,3 +302,8 @@ small things I learn about programming.
 
 ## Day 60
 - Learned queue basics
+
+- - 
+
+## Day 61
+- Learned basic operations of queue data structure
