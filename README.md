@@ -312,3 +312,8 @@ small things I learn about programming.
 
 ## Day 62
 - Learned concept of circular queue
+
+- - 
+
+## Day 63
+- Learned basics of deque data structure
