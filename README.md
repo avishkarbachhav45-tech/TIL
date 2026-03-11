@@ -322,3 +322,8 @@ small things I learn about programming.
 
 ## Day 64
 - Learned basic idea of graph data structure
+
+- - 
+
+## Day 65
+- Learned how graphs are represented using adjacency list
