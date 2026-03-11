@@ -317,3 +317,8 @@ small things I learn about programming.
 
 ## Day 63
 - Learned basics of deque data structure
+
+- - 
+
+## Day 64
+- Learned basic idea of graph data structure
