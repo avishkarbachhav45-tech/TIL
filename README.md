@@ -332,3 +332,8 @@ small things I learn about programming.
 
 ## Day 66
 - Learned BFS traversal in graphs
+
+- - 
+
+## Day 67
+- Learned DFS traversal in graphs
