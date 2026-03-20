@@ -367,3 +367,8 @@ small things I learn about programming.
 
 ## Day 73
 - Learned basic idea of Bellman-Ford algorithm
+
+- - 
+
+## Day 74
+- Learned step-by-step working of Bellman-Ford algorithm
