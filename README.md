@@ -377,3 +377,8 @@ small things I learn about programming.
 
 ## Day 75
 - Learned basic idea of Floyd-Warshall algorithm
+
+#
+
+## Day 76
+- Learned basic idea of dynamic programming
