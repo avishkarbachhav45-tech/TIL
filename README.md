@@ -383,3 +383,8 @@ small things I learn about programming.
 
 ## Day 76
 - Learned basic idea of dynamic programming
+
+#
+
+## Day 77
+- Learned difference between memoization and tabulation
