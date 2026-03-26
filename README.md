@@ -388,3 +388,8 @@ small things I learn about programming.
 
 ## Day 77
 - Learned difference between memoization and tabulation
+
+# 
+
+## Day 78
+- Learned Fibonacci problem using dynamic programming
