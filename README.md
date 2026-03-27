@@ -393,3 +393,8 @@ small things I learn about programming.
 
 ## Day 78
 - Learned Fibonacci problem using dynamic programming
+
+# 
+
+## Day 79
+- Learned climbing stairs problem using DP
