@@ -398,3 +398,8 @@ small things I learn about programming.
 
 ## Day 79
 - Learned climbing stairs problem using DP
+
+#
+
+## Day 80
+- Learned minimum cost climbing stairs using DP
