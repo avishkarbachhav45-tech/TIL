@@ -374,7 +374,7 @@ small things I learn about programming.
 ## Day 74
 - Learned step-by-step working of Bellman-Ford algorithm
 
-- - 
+#
 
 ## Day 75
 - Learned basic idea of Floyd-Warshall algorithm
