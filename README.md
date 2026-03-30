@@ -339,37 +339,37 @@ small things I learn about programming.
 ## Day 67
 - Learned DFS traversal in graphs
 
-- - 
+#
 
 ## Day 68
 - Learned basic idea of cycle detection in graphs
 
-- - 
+#
 
 ## Day 69
 - Learned concept of topological sorting in graphs
 
-- - 
+#
 
 ## Day 70
 - Learned basic idea of Dijkstra’s algorithm
 
-- - 
+#
 
 ## Day 71
 - Learned step-by-step working of Dijkstra algorithm
 
-- - 
+#
 
 ## Day 72
 - Learned how BFS is used to find shortest path in unweighted graphs
 
-- - 
+#
 
 ## Day 73
 - Learned basic idea of Bellman-Ford algorithm
 
-- - 
+#
 
 ## Day 74
 - Learned step-by-step working of Bellman-Ford algorithm
