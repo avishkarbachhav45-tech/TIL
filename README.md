@@ -408,3 +408,8 @@ small things I learn about programming.
 
 ## Day 81
 - Learned House Robber problem using DP
+
+#
+
+## Day 82
+- Learned Minimum Spanning Tree using Prim’s algorithm
