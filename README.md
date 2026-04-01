@@ -413,3 +413,8 @@ small things I learn about programming.
 
 ## Day 82
 - Learned Minimum Spanning Tree using Prim’s algorithm
+
+#
+
+## Day 83
+- Learned Kruskal’s algorithm for MST
