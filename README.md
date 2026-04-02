@@ -418,3 +418,8 @@ small things I learn about programming.
 
 ## Day 83
 - Learned Kruskal’s algorithm for MST
+
+#
+
+## Day 84
+- Learned Union-Find (DSU) for graph problems
