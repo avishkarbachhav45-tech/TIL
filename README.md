@@ -428,3 +428,8 @@ small things I learn about programming.
 
 ## Day 85
 - Learned DSU optimizations: path compression and union by rank
+
+#
+
+## Day 86
+- Learned how to count connected components using DSU
