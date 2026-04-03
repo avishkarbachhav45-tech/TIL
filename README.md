@@ -423,3 +423,8 @@ small things I learn about programming.
 
 ## Day 84
 - Learned Union-Find (DSU) for graph problems
+
+#
+
+## Day 85
+- Learned DSU optimizations: path compression and union by rank
