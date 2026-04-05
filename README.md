@@ -433,3 +433,8 @@ small things I learn about programming.
 
 ## Day 86
 - Learned how to count connected components using DSU
+
+#
+
+## Day 87
+- Learned how to count number of islands using DFS/BFS
