@@ -284,17 +284,17 @@ small things I learn about programming.
 ## Day 56
 - Learned concept of maximum product subarray
 
-- - 
+#
 
 ## Day 57
 - Learned basics of stack data structure
 
-- - 
+#
 
 ## Day 58
 - Learned concept of Next Greater Element using stack
 
-- - 
+#
 
 ## Day 59
 - Learned how stack is used to check balanced parentheses
