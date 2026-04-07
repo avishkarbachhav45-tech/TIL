@@ -438,3 +438,8 @@ small things I learn about programming.
 
 ## Day 87
 - Learned how to count number of islands using DFS/BFS
+
+#
+
+## Day 88
+- Learned how to solve number of islands using DSU
