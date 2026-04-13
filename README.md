@@ -468,3 +468,8 @@ small things I learn about programming.
 
 ## Day 93
 - Learned 01 Matrix problem using BFS
+
+#
+
+## Day 94
+- Learned shortest path in binary matrix using BFS
