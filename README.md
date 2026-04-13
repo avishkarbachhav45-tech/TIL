@@ -473,3 +473,8 @@ small things I learn about programming.
 
 ## Day 94
 - Learned shortest path in binary matrix using BFS
+
+#
+
+## Day 95
+- Learned Word Ladder problem using BFS
