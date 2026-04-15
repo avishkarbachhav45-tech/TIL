@@ -478,3 +478,8 @@ small things I learn about programming.
 
 ## Day 95
 - Learned Word Ladder problem using BFS
+
+#
+
+## Day 96
+- Learned Word Ladder II using BFS and backtracking
