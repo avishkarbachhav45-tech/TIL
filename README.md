@@ -483,3 +483,8 @@ small things I learn about programming.
 
 ## Day 96
 - Learned Word Ladder II using BFS and backtracking
+
+#
+
+## Day 97
+- Revised graph and grid problem patterns
