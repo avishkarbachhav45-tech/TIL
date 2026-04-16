@@ -488,3 +488,8 @@ small things I learn about programming.
 
 ## Day 97
 - Revised graph and grid problem patterns
+
+#
+
+## Day 98
+- Revised dynamic programming patterns
