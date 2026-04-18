@@ -493,3 +493,8 @@ small things I learn about programming.
 
 ## Day 98
 - Revised dynamic programming patterns
+
+#
+
+## Day 99
+- Revised top interview problem-solving patterns
