@@ -503,3 +503,8 @@ small things I learn about programming.
 
 ## Day 100 🎉
 - Completed 100 days of consistent learning
+
+#
+
+## Day 101
+- Learned Longest Increasing Subsequence (LIS)
