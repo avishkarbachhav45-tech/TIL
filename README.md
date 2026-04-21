@@ -508,3 +508,8 @@ small things I learn about programming.
 
 ## Day 101
 - Learned Longest Increasing Subsequence (LIS)
+
+#
+
+## Day 102
+- Learned Longest Common Subsequence (LCS)
