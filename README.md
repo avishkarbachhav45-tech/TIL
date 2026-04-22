@@ -513,3 +513,8 @@ small things I learn about programming.
 
 ## Day 102
 - Learned Longest Common Subsequence (LCS)
+
+#
+
+## Day 103
+- Learned Longest Common Substring problem
