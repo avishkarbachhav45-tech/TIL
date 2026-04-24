@@ -523,3 +523,8 @@ small things I learn about programming.
 
 ## Day 104
 - Learned Edit Distance problem
+
+#
+
+## Day 105
+- Learned 0/1 Knapsack problem
