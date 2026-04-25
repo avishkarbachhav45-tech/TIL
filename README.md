@@ -528,3 +528,8 @@ small things I learn about programming.
 
 ## Day 105
 - Learned 0/1 Knapsack problem
+
+#
+
+## Day 106
+- Learned Subset Sum problem
