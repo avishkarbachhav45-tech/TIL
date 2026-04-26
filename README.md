@@ -533,3 +533,8 @@ small things I learn about programming.
 
 ## Day 106
 - Learned Subset Sum problem
+
+#
+
+## Day 107
+- Learned Equal Sum Partition problem
