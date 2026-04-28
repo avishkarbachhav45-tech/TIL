@@ -329,7 +329,7 @@ small things I learn about programming.
 ## Day 65
 - Learned how graphs are represented using adjacency list
 
-- - 
+#
 
 ## Day 66
 - Learned BFS traversal in graphs
