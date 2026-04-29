@@ -543,3 +543,8 @@ small things I learn about programming.
 
 ## Day 108
 - Learned Count Subsets with Sum K problem
+
+#
+
+## Day 109
+- Learned Minimum Subset Sum Difference problem
