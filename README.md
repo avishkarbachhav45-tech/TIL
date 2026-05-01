@@ -553,3 +553,8 @@ small things I learn about programming.
 
 ## Day 110
 - Learned Target Sum problem
+
+#
+
+## Day 111
+- Learned Unbounded Knapsack problem
