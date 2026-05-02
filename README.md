@@ -558,3 +558,8 @@ small things I learn about programming.
 
 ## Day 111
 - Learned Unbounded Knapsack problem
+
+#
+
+## Day 112
+- Learned Coin Change problem (minimum coins)
