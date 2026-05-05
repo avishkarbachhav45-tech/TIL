@@ -159,102 +159,102 @@ small things I learn about programming.
 ## Day 31
 - Learned how to find maximum and minimum in an array
 
-- - 
+#
 
 ## Day 32
 - Learned basic logic to reverse an array
 
-- - 
+#
 
 ## Day 33
 - Learned logic to find second largest element in an array
 
-- - 
+#
 
 ## Day 34
 - Learned how to check if an array is sorted
 
-- - 
+#
 
 ## Day 35
 - Learned basic logic to remove duplicates from a sorted array
 
-- - 
+#
 
 ## Day 36
 - Learned logic to move zeros to the end of an array
 
-- - 
+#
 
 ## Day 37
 - Learned logic to left rotate an array by one position
 
-- - 
+#
 
 ## Day 38
 - Learned basic idea of rotating an array by k positions
 
-- - 
+#
 
 ## Day 39
 - Learned concept of majority element in arrays
 
-- - 
+#
 
 ## Day 40
 - Learned concept of union of two arrays
 
-- - 
+#
 
 ## Day 41
 - Learned concept of intersection of two arrays
 
-- - 
+#
 
 ## Day 42
 - Learned basic idea of prefix sum
 
-- - 
+#
 
 ## Day 43
 - Learned how prefix sum helps in range sum queries
 
-- - 
+#
 
 ## Day 44
 - Learned basic idea of sliding window technique
 
-- - 
+#
 
 ## Day 45
 - Learned concept of fixed-size sliding window
 
-- - 
+#
 
 ## Day 46
 - Learned idea of variable-size sliding window
 
-- - 
+#
 
 ## Day 47
 - Learned basic idea of two pointers technique
 
-- - 
+#
 
 ## Day 48
 - Learned concept of Two Sum problem
 
-- - 
+#
 
 ## Day 49
 - Learned basic idea of hash maps in problem solving
 
-- - 
+#
 
 ## Day 50
 - Learned sliding window approach for longest substring without repeating characters
 
-- - 
+#
 
 ## Day 51
 - Learned Kadane's Algorithm for maximum subarray sum
