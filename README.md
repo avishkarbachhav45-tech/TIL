@@ -259,27 +259,27 @@ small things I learn about programming.
 ## Day 51
 - Learned Kadane's Algorithm for maximum subarray sum
 
-- - 
+#
 
 ## Day 52
 - Learned how to find subarray with given sum using prefix sum and hashmap
 
-- 
+#
 
 ## Day 53
 - Learned how to find longest subarray with sum K
 
-- - 
+#
 
 ## Day 54
 - Learned how to count subarrays with sum K
 
-- - 
+#
 
 ## Day 55
 - Learned how to detect subarray with sum zero
 
-- - 
+#
 
 ## Day 56
 - Learned concept of maximum product subarray
@@ -299,12 +299,12 @@ small things I learn about programming.
 ## Day 59
 - Learned how stack is used to check balanced parentheses
 
-- - 
+#
 
 ## Day 60
 - Learned queue basics
 
-- - 
+#
 
 ## Day 61
 - Learned basic operations of queue data structure
