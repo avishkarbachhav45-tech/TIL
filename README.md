@@ -563,3 +563,8 @@ small things I learn about programming.
 
 ## Day 112
 - Learned Coin Change problem (minimum coins)
+
+#
+
+## Day 113
+- Learned Coin Change II problem
