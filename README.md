@@ -568,3 +568,8 @@ small things I learn about programming.
 
 ## Day 113
 - Learned Coin Change II problem
+
+#
+
+## Day 114
+- Learned Rod Cutting problem using DP
