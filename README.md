@@ -573,3 +573,8 @@ small things I learn about programming.
 
 ## Day 114
 - Learned Rod Cutting problem using DP
+
+#
+
+## Day 115
+- Learned Matrix Chain Multiplication problem
