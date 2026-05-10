@@ -578,3 +578,8 @@ small things I learn about programming.
 
 ## Day 115
 - Learned Matrix Chain Multiplication problem
+
+#
+
+## Day 116
+- Learned Palindrome Partitioning problem
