@@ -588,3 +588,8 @@ small things I learn about programming.
 
 ## Day 117
 - Learned Boolean Parenthesization problem
+
+#
+
+## Day 118
+- Learned Egg Dropping problem
