@@ -593,3 +593,8 @@ small things I learn about programming.
 
 ## Day 118
 - Learned Egg Dropping problem
+
+#
+
+## Day 119
+- Revised advanced dynamic programming patterns
