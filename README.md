@@ -598,3 +598,8 @@ small things I learn about programming.
 
 ## Day 119
 - Revised advanced dynamic programming patterns
+
+#
+
+## Day 120
+- Learned basics of Trie data structure
