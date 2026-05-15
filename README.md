@@ -603,3 +603,8 @@ small things I learn about programming.
 
 ## Day 120
 - Learned basics of Trie data structure
+
+#
+
+## Day 121
+- Learned insert and search operations in Trie
