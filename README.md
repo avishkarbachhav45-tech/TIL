@@ -608,3 +608,8 @@ small things I learn about programming.
 
 ## Day 121
 - Learned insert and search operations in Trie
+
+#
+
+## Day 122
+- Learned Word Search problem using Trie and DFS
