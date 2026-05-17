@@ -613,3 +613,8 @@ small things I learn about programming.
 
 ## Day 122
 - Learned Word Search problem using Trie and DFS
+
+#
+
+## Day 123
+- Learned basics of Segment Tree
