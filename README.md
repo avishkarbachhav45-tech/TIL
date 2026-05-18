@@ -618,3 +618,8 @@ small things I learn about programming.
 
 ## Day 123
 - Learned basics of Segment Tree
+
+#
+
+## Day 124
+- Learned build, query, and update operations in Segment Tree
