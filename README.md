@@ -623,3 +623,8 @@ small things I learn about programming.
 
 ## Day 124
 - Learned build, query, and update operations in Segment Tree
+
+#
+
+## Day 125
+- Learned Fenwick Tree (BIT)
