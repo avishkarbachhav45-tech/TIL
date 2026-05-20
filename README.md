@@ -628,3 +628,8 @@ small things I learn about programming.
 
 ## Day 125
 - Learned Fenwick Tree (BIT)
+
+#
+
+## Day 126
+- Learned Lazy Propagation in Segment Tree
