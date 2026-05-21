@@ -638,3 +638,8 @@ small things I learn about programming.
 
 ## Day 127
 - Learned Dijkstra's shortest path algorithm
+
+#
+
+## Day 128
+- Learned Bellman-Ford shortest path algorithm
