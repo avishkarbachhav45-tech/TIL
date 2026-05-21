@@ -633,3 +633,8 @@ small things I learn about programming.
 
 ## Day 126
 - Learned Lazy Propagation in Segment Tree
+
+#
+
+## Day 127
+- Learned Dijkstra's shortest path algorithm
