@@ -643,3 +643,8 @@ small things I learn about programming.
 
 ## Day 128
 - Learned Bellman-Ford shortest path algorithm
+
+#
+
+## Day 129
+- Explored how Git handles branch integration using merge and rebase strategies
