@@ -648,3 +648,8 @@ small things I learn about programming.
 
 ## Day 129
 - Explored how Git handles branch integration using merge and rebase strategies
+
+#
+
+## Day 130
+- Understood how JavaScript handles asynchronous operations behind the scenes
