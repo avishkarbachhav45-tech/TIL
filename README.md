@@ -658,3 +658,8 @@ small things I learn about programming.
 
 ## Day 131
 - Explored how operating systems handle resource conflicts between processes
+
+#
+
+## Day 132
+- Learned how databases speed up data retrieval using indexing
