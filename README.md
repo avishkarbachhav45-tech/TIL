@@ -663,3 +663,8 @@ small things I learn about programming.
 
 ## Day 132
 - Learned how databases speed up data retrieval using indexing
+
+#
+
+## Day 133
+- Explored how JavaScript functions retain access to their outer scope variables
