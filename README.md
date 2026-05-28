@@ -668,3 +668,8 @@ small things I learn about programming.
 
 ## Day 133
 - Explored how JavaScript functions retain access to their outer scope variables
+
+#
+
+## Day 134
+- Understood how HTTPS secures communication over the internet
