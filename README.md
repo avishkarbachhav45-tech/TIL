@@ -673,3 +673,8 @@ small things I learn about programming.
 
 ## Day 134
 - Understood how HTTPS secures communication over the internet
+
+#
+
+## Day 135
+- Explored how applications communicate using REST APIs
