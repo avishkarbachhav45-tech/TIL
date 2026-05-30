@@ -678,3 +678,8 @@ small things I learn about programming.
 
 ## Day 135
 - Explored how applications communicate using REST APIs
+
+#
+
+## Day 136
+- Learned how containers help run applications consistently across different environments
