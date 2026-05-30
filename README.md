@@ -683,3 +683,8 @@ small things I learn about programming.
 
 ## Day 136
 - Learned how containers help run applications consistently across different environments
+
+#
+
+## Day 137
+- Learned how Linux controls access to files and directories using permissions
