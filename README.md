@@ -688,3 +688,8 @@ small things I learn about programming.
 
 ## Day 137
 - Learned how Linux controls access to files and directories using permissions
+
+#
+
+## Day 138
+- Explored how token-based authentication works in modern web applications
