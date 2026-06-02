@@ -693,3 +693,8 @@ small things I learn about programming.
 
 ## Day 138
 - Explored how token-based authentication works in modern web applications
+
+#
+
+## Day 139
+- Learned how Linux creates, identifies, and manages running processes
