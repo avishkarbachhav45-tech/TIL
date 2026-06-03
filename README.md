@@ -698,3 +698,8 @@ small things I learn about programming.
 
 ## Day 139
 - Learned how Linux creates, identifies, and manages running processes
+
+#
+
+## Day 140
+- Explored how web servers communicate request outcomes using HTTP status codes
