@@ -703,3 +703,8 @@ small things I learn about programming.
 
 ## Day 140
 - Explored how web servers communicate request outcomes using HTTP status codes
+
+#
+
+## Day 141
+- Learned how JavaScript manages asynchronous operations using Promises
