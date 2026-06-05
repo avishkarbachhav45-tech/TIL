@@ -708,3 +708,8 @@ small things I learn about programming.
 
 ## Day 141
 - Learned how JavaScript manages asynchronous operations using Promises
+
+#
+
+## Day 142
+- Learned how normalization organizes database tables to reduce redundancy
