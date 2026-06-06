@@ -713,3 +713,8 @@ small things I learn about programming.
 
 ## Day 142
 - Learned how normalization organizes database tables to reduce redundancy
+
+#
+
+## Day 143
+- Explored how CI/CD pipelines automate software testing and deployment
