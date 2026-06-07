@@ -718,3 +718,8 @@ small things I learn about programming.
 
 ## Day 143
 - Explored how CI/CD pipelines automate software testing and deployment
+
+#
+
+## Day 144
+- Learned how MVC architecture separates application logic into organized components
