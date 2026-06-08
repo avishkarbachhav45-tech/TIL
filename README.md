@@ -728,3 +728,8 @@ small things I learn about programming.
 
 ## Day 145
 - Learned how .gitignore helps exclude unnecessary and sensitive files from version control
+
+#
+
+## Day 146
+- Explored how the Linux shell acts as a bridge between users and the operating system
