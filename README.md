@@ -723,3 +723,8 @@ small things I learn about programming.
 
 ## Day 144
 - Learned how MVC architecture separates application logic into organized components
+
+#
+
+## Day 145
+- Learned how .gitignore helps exclude unnecessary and sensitive files from version control
