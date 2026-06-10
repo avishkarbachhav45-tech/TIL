@@ -733,3 +733,8 @@ small things I learn about programming.
 
 ## Day 146
 - Explored how the Linux shell acts as a bridge between users and the operating system
+
+#
+
+## Day 147
+- Understood the difference between client-side and server-side user state management
