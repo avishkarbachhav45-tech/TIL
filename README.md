@@ -738,3 +738,8 @@ small things I learn about programming.
 
 ## Day 147
 - Understood the difference between client-side and server-side user state management
+
+#
+
+## Day 148
+- Learned how Async/Await simplifies handling asynchronous operations in JavaScript
