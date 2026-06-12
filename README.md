@@ -743,3 +743,8 @@ small things I learn about programming.
 
 ## Day 148
 - Learned how Async/Await simplifies handling asynchronous operations in JavaScript
+
+#
+
+## Day 149
+- Learned how DNS translates website names into IP addresses for internet communication
