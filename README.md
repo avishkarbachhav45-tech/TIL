@@ -748,3 +748,8 @@ small things I learn about programming.
 
 ## Day 149
 - Learned how DNS translates website names into IP addresses for internet communication
+
+#
+
+## Day 150
+- Explored how Nginx handles web traffic and forwards requests to applications
