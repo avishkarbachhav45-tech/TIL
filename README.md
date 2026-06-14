@@ -753,3 +753,8 @@ small things I learn about programming.
 
 ## Day 150
 - Explored how Nginx handles web traffic and forwards requests to applications
+
+#
+
+## Day 151
+- Compared reliable and fast data transmission methods used in computer networks
