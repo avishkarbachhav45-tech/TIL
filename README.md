@@ -763,3 +763,8 @@ small things I learn about programming.
 
 ## Day 152
 - Learned how middleware processes requests before they reach application logic
+
+#
+
+## Day 153
+- Learned how destructuring simplifies working with arrays and objects in JavaScript
