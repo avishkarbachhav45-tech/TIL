@@ -768,3 +768,8 @@ small things I learn about programming.
 
 ## Day 153
 - Learned how destructuring simplifies working with arrays and objects in JavaScript
+
+#
+
+## Day 154
+- Learned how environment variables help manage application configuration securely
