@@ -773,3 +773,8 @@ small things I learn about programming.
 
 ## Day 154
 - Learned how environment variables help manage application configuration securely
+
+#
+
+## Day 155
+- Explored the principles of designing clean and consistent RESTful APIs
