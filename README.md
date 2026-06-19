@@ -778,3 +778,8 @@ small things I learn about programming.
 
 ## Day 155
 - Explored the principles of designing clean and consistent RESTful APIs
+
+#
+
+## Day 156
+- Understood how processes and threads differ in execution and memory usage
