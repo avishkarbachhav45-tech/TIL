@@ -786,3 +786,10 @@ small things I learn about programming.
 
 #
 
+## Day 157
+- Compared containerization and virtualization approaches used in modern infrastructure
+
+#
+
+## Day 158
+- Learned how browsers enforce and manage cross-origin requests using CORS
