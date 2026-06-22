@@ -793,3 +793,8 @@ small things I learn about programming.
 
 ## Day 158
 - Learned how browsers enforce and manage cross-origin requests using CORS
+
+#
+
+## Day 159
+- Learned how ACID properties maintain reliability and integrity in database transactions
