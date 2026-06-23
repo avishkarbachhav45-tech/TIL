@@ -798,3 +798,8 @@ small things I learn about programming.
 
 ## Day 159
 - Learned how ACID properties maintain reliability and integrity in database transactions
+
+#
+
+## Day 160
+- Explored powerful array methods used for data transformation and processing in JavaScript
