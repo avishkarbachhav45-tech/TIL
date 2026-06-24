@@ -803,3 +803,8 @@ small things I learn about programming.
 
 ## Day 160
 - Explored powerful array methods used for data transformation and processing in JavaScript
+
+#
+
+## Day 161
+- Learned how Linux organizes files and directories using a hierarchical structure
