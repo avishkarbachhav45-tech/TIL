@@ -808,3 +808,8 @@ small things I learn about programming.
 
 ## Day 161
 - Learned how Linux organizes files and directories using a hierarchical structure
+
+#
+
+## Day 162
+- Learned how to move specific commits between branches without performing a full merge
