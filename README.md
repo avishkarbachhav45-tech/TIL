@@ -813,3 +813,8 @@ small things I learn about programming.
 
 ## Day 162
 - Learned how to move specific commits between branches without performing a full merge
+
+#
+
+## Day 163
+- Explored how WebSockets enable real-time communication between clients and servers
