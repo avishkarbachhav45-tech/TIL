@@ -818,3 +818,8 @@ small things I learn about programming.
 
 ## Day 163
 - Explored how WebSockets enable real-time communication between clients and servers
+
+#
+
+## Day 164
+- Learned how reverse proxies improve security and efficiently route client requests
