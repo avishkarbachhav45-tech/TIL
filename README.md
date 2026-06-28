@@ -823,3 +823,8 @@ small things I learn about programming.
 
 ## Day 164
 - Learned how reverse proxies improve security and efficiently route client requests
+
+#
+
+## Day 165
+- Learned how pagination improves performance when displaying large amounts of data
