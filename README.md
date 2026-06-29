@@ -828,3 +828,8 @@ small things I learn about programming.
 
 ## Day 165
 - Learned how pagination improves performance when displaying large amounts of data
+
+#
+
+## Day 166
+- Learned how SQL joins combine related data from multiple database tables
