@@ -833,3 +833,8 @@ small things I learn about programming.
 
 ## Day 166
 - Learned how SQL joins combine related data from multiple database tables
+
+#
+
+## Day 167
+- Learned how JavaScript modules improve code organization and reusability
