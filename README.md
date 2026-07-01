@@ -838,3 +838,8 @@ small things I learn about programming.
 
 ## Day 167
 - Learned how JavaScript modules improve code organization and reusability
+
+#
+
+## Day 168
+- Learned how rate limiting protects APIs from excessive requests and misuse
