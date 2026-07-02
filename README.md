@@ -843,3 +843,8 @@ small things I learn about programming.
 
 ## Day 168
 - Learned how rate limiting protects APIs from excessive requests and misuse
+
+#
+
+## Day 169
+- Learned how the operating system switches CPU execution between processes and threads
