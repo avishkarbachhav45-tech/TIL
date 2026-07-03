@@ -848,3 +848,8 @@ small things I learn about programming.
 
 ## Day 169
 - Learned how the operating system switches CPU execution between processes and threads
+
+#
+
+## Day 170
+- Learned how load balancing distributes traffic to improve scalability and reliability
