@@ -853,3 +853,8 @@ small things I learn about programming.
 
 ## Day 170
 - Learned how load balancing distributes traffic to improve scalability and reliability
+
+#
+
+## Day 171
+- Learned how API versioning enables application updates while supporting existing clients
