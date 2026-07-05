@@ -858,3 +858,8 @@ small things I learn about programming.
 
 ## Day 171
 - Learned how API versioning enables application updates while supporting existing clients
+
+#
+
+## Day 172
+- Learned how database transactions ensure reliable and consistent data operations
