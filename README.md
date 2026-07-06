@@ -863,3 +863,8 @@ small things I learn about programming.
 
 ## Day 172
 - Learned how database transactions ensure reliable and consistent data operations
+
+#
+
+## Day 173
+- Learned how Linux file permissions control access to files and directories
