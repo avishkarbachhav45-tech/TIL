@@ -868,3 +868,8 @@ small things I learn about programming.
 
 ## Day 173
 - Learned how Linux file permissions control access to files and directories
+
+#
+
+## Day 174
+- Learned how debouncing and throttling optimize event handling in JavaScript applications
