@@ -873,3 +873,8 @@ small things I learn about programming.
 
 ## Day 174
 - Learned how debouncing and throttling optimize event handling in JavaScript applications
+
+#
+
+## Day 175
+- Learned how Blue-Green Deployment enables safer application releases with minimal downtime
