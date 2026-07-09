@@ -878,3 +878,8 @@ small things I learn about programming.
 
 ## Day 175
 - Learned how Blue-Green Deployment enables safer application releases with minimal downtime
+
+#
+
+## Day 176
+- Learned the basics of securely handling file uploads in web applications
