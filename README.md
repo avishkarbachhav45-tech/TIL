@@ -886,3 +886,25 @@ small things I learn about programming.
 
 #
 
+## Day 177
+- Explored how database transactions maintain data consistency and reliability
+
+#
+
+## Day 178
+- Learned how Git Stash temporarily stores unfinished changes for later use
+
+#
+
+## Day 179
+- Learned how call(), apply(), and bind() control the this context in JavaScript
+
+#
+
+## Day 180
+- Learned the difference between symbolic links and hard links in Linux
+
+#
+
+## Day 181
+- Learned how Git Reflog helps recover lost commits and track HEAD history
