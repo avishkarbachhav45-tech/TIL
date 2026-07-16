@@ -908,3 +908,8 @@ small things I learn about programming.
 
 ## Day 181
 - Learned how Git Reflog helps recover lost commits and track HEAD history
+
+#
+
+## Day 182
+- Learned how OAuth 2.0 enables secure third-party authorization using access tokens
