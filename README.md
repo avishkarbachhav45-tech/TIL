@@ -913,3 +913,8 @@ small things I learn about programming.
 
 ## Day 182
 - Learned how OAuth 2.0 enables secure third-party authorization using access tokens
+
+#
+
+## Day 183
+- Learned how webhooks enable real-time communication between different applications
