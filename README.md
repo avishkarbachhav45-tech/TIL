@@ -918,3 +918,8 @@ small things I learn about programming.
 
 ## Day 183
 - Learned how webhooks enable real-time communication between different applications
+
+#
+
+## Day 184
+- Learned how API rate limiting protects backend services from excessive requests
