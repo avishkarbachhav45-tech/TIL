@@ -923,3 +923,8 @@ small things I learn about programming.
 
 ## Day 184
 - Learned how API rate limiting protects backend services from excessive requests
+
+#
+
+## Day 185
+- Learned how JavaScript uses the prototype chain for inheritance and property lookup
