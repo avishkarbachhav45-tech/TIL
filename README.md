@@ -933,3 +933,8 @@ small things I learn about programming.
 
 ## Day 186
 - Learned how Docker Compose simplifies running multi-container applications
+
+#
+
+## Day 187
+- Learned how the CAP Theorem explains trade-offs in distributed systems
