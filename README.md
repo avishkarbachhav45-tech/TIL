@@ -938,3 +938,8 @@ small things I learn about programming.
 
 ## Day 187
 - Learned how the CAP Theorem explains trade-offs in distributed systems
+
+#
+
+## Day 188
+- Learned how an API Gateway manages requests for multiple backend services
