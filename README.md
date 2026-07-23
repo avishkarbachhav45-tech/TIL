@@ -943,3 +943,8 @@ small things I learn about programming.
 
 ## Day 188
 - Learned how an API Gateway manages requests for multiple backend services
+
+#
+
+## Day 189
+- Learned how SSH keys enable secure authentication for Git and remote servers
