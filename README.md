@@ -948,3 +948,8 @@ small things I learn about programming.
 
 ## Day 189
 - Learned how SSH keys enable secure authentication for Git and remote servers
+
+#
+
+## Day 190
+- Learned how Helm simplifies deploying and managing applications in Kubernetes
