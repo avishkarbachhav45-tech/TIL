@@ -953,3 +953,8 @@ small things I learn about programming.
 
 ## Day 190
 - Learned how Helm simplifies deploying and managing applications in Kubernetes
+
+#
+
+## Day 191
+- Learned how consistent hashing balances data across distributed systems with minimal redistribution
