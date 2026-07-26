@@ -958,3 +958,8 @@ small things I learn about programming.
 
 ## Day 191
 - Learned how consistent hashing balances data across distributed systems with minimal redistribution
+
+#
+
+## Day 192
+- Learned how JavaScript events propagate using bubbling and capturing phases
