@@ -963,3 +963,8 @@ small things I learn about programming.
 
 ## Day 192
 - Learned how JavaScript events propagate using bubbling and capturing phases
+
+#
+
+## Day 193
+- Learned how refresh tokens maintain secure user sessions without repeated logins
