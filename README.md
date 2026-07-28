@@ -968,3 +968,8 @@ small things I learn about programming.
 
 ## Day 193
 - Learned how refresh tokens maintain secure user sessions without repeated logins
+
+#
+
+## Day 194
+- Learned how Git Hooks automate tasks during the Git workflow
