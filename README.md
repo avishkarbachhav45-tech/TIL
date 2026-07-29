@@ -973,3 +973,8 @@ small things I learn about programming.
 
 ## Day 194
 - Learned how Git Hooks automate tasks during the Git workflow
+
+#
+
+## Day 195
+- Learned how message queues enable asynchronous communication between distributed services
