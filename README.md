@@ -978,3 +978,8 @@ small things I learn about programming.
 
 ## Day 195
 - Learned how message queues enable asynchronous communication between distributed services
+
+#
+
+## Day 196
+- Explored how Bloom Filters optimize lookups using probabilistic membership testing
