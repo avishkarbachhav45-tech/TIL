@@ -983,3 +983,8 @@ small things I learn about programming.
 
 ## Day 196
 - Explored how Bloom Filters optimize lookups using probabilistic membership testing
+
+#
+
+## Day 197
+- Learned how the Circuit Breaker pattern improves fault tolerance in distributed systems
