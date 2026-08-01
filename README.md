@@ -988,3 +988,8 @@ small things I learn about programming.
 
 ## Day 197
 - Learned how the Circuit Breaker pattern improves fault tolerance in distributed systems
+
+#
+
+## Day 198
+- Learned how semaphores synchronize concurrent processes and threads
