@@ -993,3 +993,8 @@ small things I learn about programming.
 
 ## Day 198
 - Learned how semaphores synchronize concurrent processes and threads
+
+#
+
+## Day 199
+- Learned how systemd manages Linux services and system startup
