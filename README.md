@@ -998,3 +998,8 @@ small things I learn about programming.
 
 ## Day 199
 - Learned how systemd manages Linux services and system startup
+
+#
+
+## Day 200
+- Learned how race conditions occur in concurrent programs and how synchronization prevents them
