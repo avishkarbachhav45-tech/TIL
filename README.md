@@ -1003,3 +1003,8 @@ small things I learn about programming.
 
 ## Day 200
 - Learned how race conditions occur in concurrent programs and how synchronization prevents them
+
+#
+
+## Day 201
+- Learned how Infrastructure as Code automates and standardizes infrastructure provisioning
