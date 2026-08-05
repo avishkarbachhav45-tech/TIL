@@ -1008,3 +1008,8 @@ small things I learn about programming.
 
 ## Day 201
 - Learned how Infrastructure as Code automates and standardizes infrastructure provisioning
+
+#
+
+## Day 202
+- Learned how Server-Sent Events deliver real-time updates from the server to clients
