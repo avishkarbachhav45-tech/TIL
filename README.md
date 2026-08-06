@@ -1013,3 +1013,8 @@ small things I learn about programming.
 
 ## Day 202
 - Learned how Server-Sent Events deliver real-time updates from the server to clients
+
+#
+
+## Day 203
+- Learned the difference between debouncing and throttling for optimizing JavaScript event handling
