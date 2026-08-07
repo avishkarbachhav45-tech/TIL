@@ -1018,3 +1018,8 @@ small things I learn about programming.
 
 ## Day 203
 - Learned the difference between debouncing and throttling for optimizing JavaScript event handling
+
+#
+
+## Day 204
+- Learned how idempotency prevents duplicate operations in distributed applications
