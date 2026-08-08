@@ -1023,3 +1023,8 @@ small things I learn about programming.
 
 ## Day 204
 - Learned how idempotency prevents duplicate operations in distributed applications
+
+#
+
+## Day 205
+- Learned how GraphQL allows clients to request and manipulate data through a flexible API
