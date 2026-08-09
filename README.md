@@ -1028,3 +1028,8 @@ small things I learn about programming.
 
 ## Day 205
 - Learned how GraphQL allows clients to request and manipulate data through a flexible API
+
+#
+
+## Day 206
+- Learned how Kubernetes Pods group containers into the basic deployable unit
