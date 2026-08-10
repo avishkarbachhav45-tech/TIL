@@ -1033,3 +1033,8 @@ small things I learn about programming.
 
 ## Day 206
 - Learned how Kubernetes Pods group containers into the basic deployable unit
+
+#
+
+## Day 207
+- Learned how Kubernetes Services provide stable networking and expose applications running in Pods
