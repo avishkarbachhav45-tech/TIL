@@ -1038,3 +1038,8 @@ small things I learn about programming.
 
 ## Day 207
 - Learned how Kubernetes Services provide stable networking and expose applications running in Pods
+
+#
+
+## Day 208
+- Learned how Git Bisect uses binary search to locate bugs in commit history
