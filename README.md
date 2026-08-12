@@ -1043,3 +1043,8 @@ small things I learn about programming.
 
 ## Day 208
 - Learned how Git Bisect uses binary search to locate bugs in commit history
+
+#
+
+## Day 209
+- Learned how Kubernetes ConfigMaps manage application configuration separately from container images
