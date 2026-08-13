@@ -1048,3 +1048,8 @@ small things I learn about programming.
 
 ## Day 209
 - Learned how Kubernetes ConfigMaps manage application configuration separately from container images
+
+#
+
+## Day 210
+- Learned how Kubernetes Secrets securely manage sensitive application configuration
