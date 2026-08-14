@@ -1053,3 +1053,8 @@ small things I learn about programming.
 
 ## Day 210
 - Learned how Kubernetes Secrets securely manage sensitive application configuration
+
+#
+
+## Day 211
+- Learned how Git Tags mark specific commits for releases and versioning
