@@ -1058,3 +1058,8 @@ small things I learn about programming.
 
 ## Day 211
 - Learned how Git Tags mark specific commits for releases and versioning
+
+#
+
+## Day 212
+- Learned how Linux namespaces isolate processes and system resources
