@@ -1063,3 +1063,8 @@ small things I learn about programming.
 
 ## Day 212
 - Learned how Linux namespaces isolate processes and system resources
+
+#
+
+## Day 213
+- Learned how Linux cgroups control and monitor resource usage for processes and containers
