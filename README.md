@@ -1068,3 +1068,8 @@ small things I learn about programming.
 
 ## Day 213
 - Learned how Linux cgroups control and monitor resource usage for processes and containers
+
+#
+
+## Day 214
+- Learned how distributed tracing tracks requests across multiple backend services
