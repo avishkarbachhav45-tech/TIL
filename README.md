@@ -1073,3 +1073,8 @@ small things I learn about programming.
 
 ## Day 214
 - Learned how distributed tracing tracks requests across multiple backend services
+
+#
+
+## Day 215
+- Learned how DNS resolution translates domain names into IP addresses
