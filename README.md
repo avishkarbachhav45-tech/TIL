@@ -1078,3 +1078,8 @@ small things I learn about programming.
 
 ## Day 215
 - Learned how DNS resolution translates domain names into IP addresses
+
+#
+
+## Day 216
+- Learned how TCP establishes a reliable connection using the 3-way handshake
