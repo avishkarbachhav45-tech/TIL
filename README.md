@@ -1083,3 +1083,8 @@ small things I learn about programming.
 
 ## Day 216
 - Learned how TCP establishes a reliable connection using the 3-way handshake
+
+#
+
+## Day 217
+- Learned how TLS secures network communication using encryption and authentication
