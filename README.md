@@ -1093,3 +1093,8 @@ small things I learn about programming.
 
 ## Day 218
 - Learned how SQL Injection attacks manipulate database queries and how parameterized queries prevent them
+
+#
+
+## Day 219
+- Learned how Cross-Site Scripting attacks execute malicious scripts in users' browsers and how to prevent them
