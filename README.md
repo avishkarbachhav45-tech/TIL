@@ -1088,3 +1088,8 @@ small things I learn about programming.
 
 ## Day 217
 - Learned how TLS secures network communication using encryption and authentication
+
+#
+
+## Day 218
+- Learned how SQL Injection attacks manipulate database queries and how parameterized queries prevent them
