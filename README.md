@@ -1103,3 +1103,8 @@ small things I learn about programming.
 
 ## Day 220
 - Learned how CSRF attacks abuse authenticated sessions and how web applications protect against them
+
+#
+
+## Day 221
+- Learned how CORS controls cross-origin requests between web applications
