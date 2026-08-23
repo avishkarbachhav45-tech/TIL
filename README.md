@@ -1098,3 +1098,8 @@ small things I learn about programming.
 
 ## Day 219
 - Learned how Cross-Site Scripting attacks execute malicious scripts in users' browsers and how to prevent them
+
+#
+
+## Day 220
+- Learned how CSRF attacks abuse authenticated sessions and how web applications protect against them
