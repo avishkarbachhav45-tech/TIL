@@ -1108,3 +1108,8 @@ small things I learn about programming.
 
 ## Day 221
 - Learned how CORS controls cross-origin requests between web applications
+
+#
+
+## Day 222
+- Learned how Kubernetes RBAC controls permissions for users and services
