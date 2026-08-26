@@ -1113,3 +1113,8 @@ small things I learn about programming.
 
 ## Day 222
 - Learned how Kubernetes RBAC controls permissions for users and services
+
+#
+
+## Day 223
+- Learned how virtual memory allows processes to use memory beyond available physical RAM
