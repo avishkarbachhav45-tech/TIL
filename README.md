@@ -1118,3 +1118,8 @@ small things I learn about programming.
 
 ## Day 223
 - Learned how virtual memory allows processes to use memory beyond available physical RAM
+
+#
+
+## Day 224
+- Learned how cache invalidation keeps cached data consistent with the source database
