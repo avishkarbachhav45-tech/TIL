@@ -1123,3 +1123,8 @@ small things I learn about programming.
 
 ## Day 224
 - Learned how cache invalidation keeps cached data consistent with the source database
+
+#
+
+## Day 225
+- Learned how ETags enable efficient HTTP caching and conditional requests
