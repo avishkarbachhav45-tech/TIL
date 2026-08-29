@@ -1128,3 +1128,8 @@ small things I learn about programming.
 
 ## Day 225
 - Learned how ETags enable efficient HTTP caching and conditional requests
+
+#
+
+## Day 226
+- Learned how Canary Deployment gradually releases a new application version to a small group of users before full rollout
