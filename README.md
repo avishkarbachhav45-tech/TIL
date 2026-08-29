@@ -1133,3 +1133,8 @@ small things I learn about programming.
 
 ## Day 226
 - Learned how Canary Deployment gradually releases a new application version to a small group of users before full rollout
+
+#
+
+## Day 227
+- Learned how cloud load balancers distribute traffic and improve application availability
