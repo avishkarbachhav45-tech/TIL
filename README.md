@@ -1138,3 +1138,8 @@ small things I learn about programming.
 
 ## Day 227
 - Learned how cloud load balancers distribute traffic and improve application availability
+
+#
+
+## Day 228
+- Learned how Auto Scaling dynamically adjusts computing resources based on application demand
