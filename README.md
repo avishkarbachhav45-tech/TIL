@@ -1143,3 +1143,8 @@ small things I learn about programming.
 
 ## Day 228
 - Learned how Auto Scaling dynamically adjusts computing resources based on application demand
+
+#
+
+## Day 229
+- Learned how cloud monitoring tracks application and infrastructure health using metrics and logs
