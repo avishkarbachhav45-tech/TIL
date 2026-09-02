@@ -1148,3 +1148,8 @@ small things I learn about programming.
 
 ## Day 229
 - Learned how cloud monitoring tracks application and infrastructure health using metrics and logs
+
+#
+
+## Day 230
+- Learned how cloud disaster recovery minimizes data loss and downtime after system failures
