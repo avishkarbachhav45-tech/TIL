@@ -1153,3 +1153,8 @@ small things I learn about programming.
 
 ## Day 230
 - Learned how cloud disaster recovery minimizes data loss and downtime after system failures
+
+#
+
+## Day 231
+- Learned how database connection pooling improves backend performance by reusing database connections
