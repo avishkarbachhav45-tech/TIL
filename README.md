@@ -1158,3 +1158,8 @@ small things I learn about programming.
 
 ## Day 231
 - Learned how database connection pooling improves backend performance by reusing database connections
+
+#
+
+## Day 232
+- Learned how managed Cloud DNS routes domain names to cloud resources
