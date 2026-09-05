@@ -1163,3 +1163,8 @@ small things I learn about programming.
 
 ## Day 232
 - Learned how managed Cloud DNS routes domain names to cloud resources
+
+#
+
+## Day 233
+- Learned how object storage stores and scales unstructured data in cloud environments
