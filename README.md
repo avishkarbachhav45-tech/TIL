@@ -1168,3 +1168,8 @@ small things I learn about programming.
 
 ## Day 233
 - Learned how object storage stores and scales unstructured data in cloud environments
+
+#
+
+## Day 234
+- Learned how Content Delivery Networks reduce latency by serving cached content closer to users
