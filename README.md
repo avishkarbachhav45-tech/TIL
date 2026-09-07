@@ -1173,3 +1173,8 @@ small things I learn about programming.
 
 ## Day 234
 - Learned how Content Delivery Networks reduce latency by serving cached content closer to users
+
+#
+
+## Day 235
+- Learned how Cache-Control headers manage caching behavior in browsers and CDNs
