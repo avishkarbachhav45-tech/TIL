@@ -1178,3 +1178,8 @@ small things I learn about programming.
 
 ## Day 235
 - Learned how Cache-Control headers manage caching behavior in browsers and CDNs
+
+#
+
+## Day 236
+- Learned how optimistic locking prevents conflicting updates when multiple users modify the same data
