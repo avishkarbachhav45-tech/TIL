@@ -1183,3 +1183,8 @@ small things I learn about programming.
 
 ## Day 236
 - Learned how optimistic locking prevents conflicting updates when multiple users modify the same data
+
+#
+
+## Day 237
+- Learned how Git Worktree allows multiple branches of the same repository to be worked on simultaneously
