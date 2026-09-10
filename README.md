@@ -1188,3 +1188,8 @@ small things I learn about programming.
 
 ## Day 237
 - Learned how Git Worktree allows multiple branches of the same repository to be worked on simultaneously
+
+#
+
+## Day 238
+- Learned how password hashing and salting protect user passwords from being stored in plain text
