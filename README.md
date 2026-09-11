@@ -1193,3 +1193,8 @@ small things I learn about programming.
 
 ## Day 238
 - Learned how password hashing and salting protect user passwords from being stored in plain text
+
+#
+
+## Day 239
+- Learned how Linux iptables filters network traffic using firewall rules
