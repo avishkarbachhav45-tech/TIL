@@ -1198,3 +1198,8 @@ small things I learn about programming.
 
 ## Day 239
 - Learned how Linux iptables filters network traffic using firewall rules
+
+#
+
+## Day 240
+- Learned how database transactions group multiple operations into a single reliable unit of work
