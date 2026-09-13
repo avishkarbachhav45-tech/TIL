@@ -1203,3 +1203,8 @@ small things I learn about programming.
 
 ## Day 240
 - Learned how database transactions group multiple operations into a single reliable unit of work
+
+#
+
+## Day 241
+- Learned how JavaScript Generators can pause and resume function execution using yield
