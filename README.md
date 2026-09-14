@@ -1208,3 +1208,8 @@ small things I learn about programming.
 
 ## Day 241
 - Learned how JavaScript Generators can pause and resume function execution using yield
+
+#
+
+## Day 242
+- Learned how Docker Volumes persist container data even when containers are removed
