@@ -1213,3 +1213,8 @@ small things I learn about programming.
 
 ## Day 242
 - Learned how Docker Volumes persist container data even when containers are removed
+
+#
+
+## Day 243
+- Learned how Content Security Policy restricts browser resources to improve web application security
