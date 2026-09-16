@@ -1218,3 +1218,8 @@ small things I learn about programming.
 
 ## Day 243
 - Learned how Content Security Policy restricts browser resources to improve web application security
+
+#
+
+## Day 244
+- Learned how Linux pipes connect commands by passing the output of one command as input to another
