@@ -1223,3 +1223,8 @@ small things I learn about programming.
 
 ## Day 244
 - Learned how Linux pipes connect commands by passing the output of one command as input to another
+
+#
+
+## Day 245
+- Learned how API Pagination efficiently handles large datasets by returning data in smaller pages
