@@ -1228,3 +1228,8 @@ small things I learn about programming.
 
 ## Day 245
 - Learned how API Pagination efficiently handles large datasets by returning data in smaller pages
+
+#
+
+## Day 246
+- Learned how database read replicas distribute read traffic and reduce load on the primary database
