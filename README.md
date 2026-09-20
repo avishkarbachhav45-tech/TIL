@@ -1233,3 +1233,8 @@ small things I learn about programming.
 
 ## Day 246
 - Learned how database read replicas distribute read traffic and reduce load on the primary database
+
+#
+
+## Day 247
+- Learned how Kubernetes Deployments manage Pod replicas and support rolling updates
