@@ -1253,3 +1253,8 @@ small things I learn about programming.
 
 ## Day 250
 - Learned how Garbage Collection automatically manages and reclaims unused memory
+
+#
+
+## Day 251
+- Learned how HSTS forces secure HTTPS connections and helps prevent protocol downgrade attacks
