@@ -1246,5 +1246,10 @@ small things I learn about programming.
 
 #
 
-## Day 248
+## Day 249
 - Learned how Linux lsof helps identify processes using files and network ports
+
+#
+
+## Day 250
+- Learned how Garbage Collection automatically manages and reclaims unused memory
