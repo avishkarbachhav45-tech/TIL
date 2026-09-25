@@ -1258,3 +1258,8 @@ small things I learn about programming.
 
 ## Day 251
 - Learned how HSTS forces secure HTTPS connections and helps prevent protocol downgrade attacks
+
+#
+
+## Day 252
+- Learned how the Saga Pattern manages distributed transactions across multiple microservices
