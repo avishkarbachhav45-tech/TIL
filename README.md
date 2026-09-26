@@ -1263,3 +1263,8 @@ small things I learn about programming.
 
 ## Day 252
 - Learned how the Saga Pattern manages distributed transactions across multiple microservices
+
+#
+
+## Day 253
+- Learned how Subresource Integrity verifies the integrity of external JavaScript and CSS resources
