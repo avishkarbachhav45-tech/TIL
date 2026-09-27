@@ -1268,3 +1268,8 @@ small things I learn about programming.
 
 ## Day 253
 - Learned how Subresource Integrity verifies the integrity of external JavaScript and CSS resources
+
+#
+
+## Day 254
+- Learned how Write-Ahead Logging helps databases recover changes and maintain data durability
