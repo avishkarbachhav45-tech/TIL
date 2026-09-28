@@ -1273,3 +1273,8 @@ small things I learn about programming.
 
 ## Day 254
 - Learned how Write-Ahead Logging helps databases recover changes and maintain data durability
+
+#
+
+## Day 255
+- Learned how JavaScript Proxy can intercept and customize object operations
