@@ -1278,3 +1278,8 @@ small things I learn about programming.
 
 ## Day 255
 - Learned how JavaScript Proxy can intercept and customize object operations
+
+#
+
+## Day 256
+- Learned how Git Sparse Checkout downloads only the required files or directories from a repository
