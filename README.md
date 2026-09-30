@@ -1283,3 +1283,8 @@ small things I learn about programming.
 
 ## Day 256
 - Learned how Git Sparse Checkout downloads only the required files or directories from a repository
+
+#
+
+## Day 257
+- Learned how HTTP Content Negotiation allows clients and servers to agree on response formats
