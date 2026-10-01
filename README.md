@@ -1288,3 +1288,8 @@ small things I learn about programming.
 
 ## Day 257
 - Learned how HTTP Content Negotiation allows clients and servers to agree on response formats
+
+#
+
+## Day 258
+- Learned how database migrations manage and track database schema changes across environments
