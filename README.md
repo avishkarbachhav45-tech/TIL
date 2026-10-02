@@ -1293,3 +1293,8 @@ small things I learn about programming.
 
 ## Day 258
 - Learned how database migrations manage and track database schema changes across environments
+
+#
+
+## Day 259
+- Learned how the Bulkhead Pattern isolates failures and prevents one overloaded service from affecting the entire system
