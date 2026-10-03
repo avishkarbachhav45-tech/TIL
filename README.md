@@ -1298,3 +1298,8 @@ small things I learn about programming.
 
 ## Day 259
 - Learned how the Bulkhead Pattern isolates failures and prevents one overloaded service from affecting the entire system
+
+#
+
+## Day 260
+- Learned how Kubernetes HPA automatically scales Pods based on changing application demand
