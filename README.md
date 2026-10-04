@@ -1303,3 +1303,8 @@ small things I learn about programming.
 
 ## Day 260
 - Learned how Kubernetes HPA automatically scales Pods based on changing application demand
+
+#
+
+## Day 261
+- Learned how Kubernetes Persistent Volumes provide storage that survives Pod recreation
