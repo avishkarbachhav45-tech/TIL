@@ -1308,3 +1308,8 @@ small things I learn about programming.
 
 ## Day 261
 - Learned how Kubernetes Persistent Volumes provide storage that survives Pod recreation
+
+#
+
+## Day 262
+- Learned how Event Sourcing stores application changes as events and rebuilds state by replaying them
