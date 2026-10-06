@@ -1313,3 +1313,8 @@ small things I learn about programming.
 
 ## Day 262
 - Learned how Event Sourcing stores application changes as events and rebuilds state by replaying them
+
+#
+
+## Day 263
+- Learned how Linux strace traces system calls to help debug and troubleshoot processes
