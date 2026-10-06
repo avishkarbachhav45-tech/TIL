@@ -1318,3 +1318,8 @@ small things I learn about programming.
 
 ## Day 263
 - Learned how Linux strace traces system calls to help debug and troubleshoot processes
+
+#
+
+## Day 264
+- Learned how CQRS separates read and write operations to improve scalability and system design
