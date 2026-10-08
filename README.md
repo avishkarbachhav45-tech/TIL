@@ -1323,3 +1323,8 @@ small things I learn about programming.
 
 ## Day 264
 - Learned how CQRS separates read and write operations to improve scalability and system design
+
+#
+
+## Day 265
+- Learned how SSRF can trick servers into making unauthorized requests to internal or external resources
