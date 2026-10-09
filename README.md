@@ -1328,3 +1328,8 @@ small things I learn about programming.
 
 ## Day 265
 - Learned how SSRF can trick servers into making unauthorized requests to internal or external resources
+
+#
+
+## Day 266
+- Learned how database deadlocks occur when transactions wait on each other's locked resources
