@@ -1333,3 +1333,8 @@ small things I learn about programming.
 
 ## Day 266
 - Learned how database deadlocks occur when transactions wait on each other's locked resources
+
+#
+
+## Day 267
+- Learned how JavaScript WeakMap associates data with objects without preventing their garbage collection
