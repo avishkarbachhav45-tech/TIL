@@ -1338,3 +1338,8 @@ small things I learn about programming.
 
 ## Day 267
 - Learned how JavaScript WeakMap associates data with objects without preventing their garbage collection
+
+#
+
+## Day 268
+- Learned how Kubernetes Network Policies restrict ingress and egress traffic between workloads
