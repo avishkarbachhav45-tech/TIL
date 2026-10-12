@@ -1343,3 +1343,8 @@ small things I learn about programming.
 
 ## Day 268
 - Learned how Kubernetes Network Policies restrict ingress and egress traffic between workloads
+
+#
+
+## Day 269
+- Learned how Change Data Capture tracks database changes for synchronization and real-time data processing
