@@ -1348,3 +1348,8 @@ small things I learn about programming.
 
 ## Day 269
 - Learned how Change Data Capture tracks database changes for synchronization and real-time data processing
+
+#
+
+## Day 270
+- Learned how journalctl helps inspect systemd logs and troubleshoot Linux services
