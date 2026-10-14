@@ -1353,3 +1353,8 @@ small things I learn about programming.
 
 ## Day 270
 - Learned how journalctl helps inspect systemd logs and troubleshoot Linux services
+
+#
+
+## Day 271
+- Learned how database connection pool metrics help identify connection bottlenecks and performance issues
