@@ -1358,3 +1358,8 @@ small things I learn about programming.
 
 ## Day 271
 - Learned how database connection pool metrics help identify connection bottlenecks and performance issues
+
+#
+
+## Day 272
+- Learned how Kubernetes liveness and readiness probes monitor container health and traffic readiness
