@@ -1363,3 +1363,8 @@ small things I learn about programming.
 
 ## Day 272
 - Learned how Kubernetes liveness and readiness probes monitor container health and traffic readiness
+
+#
+
+## Day 273
+- Learned how OpenTelemetry collects traces, metrics, and logs for application observability
