@@ -1368,3 +1368,8 @@ small things I learn about programming.
 
 ## Day 273
 - Learned how OpenTelemetry collects traces, metrics, and logs for application observability
+
+#
+
+## Day 274
+- Learned how JavaScript WeakSet tracks unique objects without preventing garbage collection
