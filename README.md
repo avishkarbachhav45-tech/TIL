@@ -1373,3 +1373,8 @@ small things I learn about programming.
 
 ## Day 274
 - Learned how JavaScript WeakSet tracks unique objects without preventing garbage collection
+
+#
+
+## Day 275
+- Learned how AbortController cancels asynchronous operations and fetch requests using AbortSignal
