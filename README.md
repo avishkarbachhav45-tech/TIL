@@ -1378,3 +1378,8 @@ small things I learn about programming.
 
 ## Day 275
 - Learned how AbortController cancels asynchronous operations and fetch requests using AbortSignal
+
+#
+
+## Day 276
+- Learned how Linux vmstat monitors memory, CPU activity, and system performance
