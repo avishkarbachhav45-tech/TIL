@@ -1383,3 +1383,8 @@ small things I learn about programming.
 
 ## Day 276
 - Learned how Linux vmstat monitors memory, CPU activity, and system performance
+
+#
+
+## Day 277
+- Learned how Kubernetes StatefulSets manage stateful applications with stable Pod identities and persistent storage
