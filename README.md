@@ -1388,3 +1388,8 @@ small things I learn about programming.
 
 ## Day 277
 - Learned how Kubernetes StatefulSets manage stateful applications with stable Pod identities and persistent storage
+
+#
+
+## Day 278
+- Learned how structuredClone() creates deep copies of supported JavaScript values
