@@ -1393,3 +1393,8 @@ small things I learn about programming.
 
 ## Day 278
 - Learned how structuredClone() creates deep copies of supported JavaScript values
+
+#
+
+## Day 279
+- Learned how Linux ulimit manages process resource limits such as open file descriptors
