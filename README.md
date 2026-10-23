@@ -1398,3 +1398,8 @@ small things I learn about programming.
 
 ## Day 279
 - Learned how Linux ulimit manages process resource limits such as open file descriptors
+
+#
+
+## Day 280
+- Learned how Promise.withResolvers() exposes a promise and its resolve and reject functions
