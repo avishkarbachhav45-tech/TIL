@@ -1403,3 +1403,8 @@ small things I learn about programming.
 
 ## Day 280
 - Learned how Promise.withResolvers() exposes a promise and its resolve and reject functions
+
+#
+
+## Day 281
+- Learned how Linux nice and renice adjust process scheduling priority
