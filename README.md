@@ -1408,3 +1408,8 @@ small things I learn about programming.
 
 ## Day 281
 - Learned how Linux nice and renice adjust process scheduling priority
+
+#
+
+## Day 282
+- Learned how Linux inotify monitors filesystem events such as file creation and modification
