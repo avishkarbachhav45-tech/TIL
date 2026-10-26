@@ -1413,3 +1413,8 @@ small things I learn about programming.
 
 ## Day 282
 - Learned how Linux inotify monitors filesystem events such as file creation and modification
+
+#
+
+## Day 283
+- Learned how Array.fromAsync() converts asynchronous iterables and promise-based values into arrays
