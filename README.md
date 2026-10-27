@@ -1418,3 +1418,8 @@ small things I learn about programming.
 
 ## Day 283
 - Learned how Array.fromAsync() converts asynchronous iterables and promise-based values into arrays
+
+#
+
+## Day 284
+- Learned how Git rerere remembers and reuses previous merge conflict resolutions
