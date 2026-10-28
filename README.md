@@ -1423,3 +1423,8 @@ small things I learn about programming.
 
 ## Day 284
 - Learned how Git rerere remembers and reuses previous merge conflict resolutions
+
+#
+
+## Day 285
+- Learned how Linux fstrim discards unused storage blocks to support efficient SSD management
