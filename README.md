@@ -1428,3 +1428,8 @@ small things I learn about programming.
 
 ## Day 285
 - Learned how Linux fstrim discards unused storage blocks to support efficient SSD management
+
+#
+
+## Day 286
+- Learned how Object.groupBy() organizes iterable elements into groups based on a callback function
