@@ -1433,3 +1433,8 @@ small things I learn about programming.
 
 ## Day 286
 - Learned how Object.groupBy() organizes iterable elements into groups based on a callback function
+
+#
+
+## Day 287
+- Learned how Kubernetes Init Containers perform setup tasks before application containers start
