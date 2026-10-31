@@ -1438,3 +1438,8 @@ small things I learn about programming.
 
 ## Day 287
 - Learned how Kubernetes Init Containers perform setup tasks before application containers start
+
+#
+
+## Day 288
+- Learned how Map.groupBy() groups iterable elements using flexible Map keys
