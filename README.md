@@ -1443,3 +1443,8 @@ small things I learn about programming.
 
 ## Day 288
 - Learned how Map.groupBy() groups iterable elements using flexible Map keys
+
+#
+
+## Day 289
+- Learned how Kubernetes Pod Disruption Budgets help maintain application availability during voluntary disruptions.
