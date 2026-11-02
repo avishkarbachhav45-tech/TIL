@@ -1448,3 +1448,8 @@ small things I learn about programming.
 
 ## Day 289
 - Learned how Kubernetes Pod Disruption Budgets help maintain application availability during voluntary disruptions.
+
+#
+
+## Day 290
+- Learned how Kubernetes Resource Quotas control resource consumption within namespaces.
