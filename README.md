@@ -1452,4 +1452,9 @@ small things I learn about programming.
 #
 
 ## Day 290
-- Learned how Kubernetes Resource Quotas control resource consumption within namespaces.
+- Learned how Kubernetes Resource Quotas control resource consumption within namespaces.\
+
+#
+
+## Day 291
+- Learned how Kubernetes Priority Classes influence pod scheduling when cluster resources are limited.
