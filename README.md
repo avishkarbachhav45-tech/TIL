@@ -1458,3 +1458,8 @@ small things I learn about programming.
 
 ## Day 291
 - Learned how Kubernetes Priority Classes influence pod scheduling when cluster resources are limited.
+
+#
+
+## Day 292
+- Learned how Kubernetes affinity and anti-affinity rules influence pod placement across a cluster.
