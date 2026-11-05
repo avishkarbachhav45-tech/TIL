@@ -1463,3 +1463,8 @@ small things I learn about programming.
 
 ## Day 292
 - Learned how Kubernetes affinity and anti-affinity rules influence pod placement across a cluster.
+
+#
+
+## Day 293
+- Learned how Kubernetes taints and tolerations control which pods can run on specific nodes.
