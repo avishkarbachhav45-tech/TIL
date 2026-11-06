@@ -1468,3 +1468,8 @@ small things I learn about programming.
 
 ## Day 293
 - Learned how Kubernetes taints and tolerations control which pods can run on specific nodes.
+
+#
+
+## Day 294
+- Learned how Kubernetes Topology Spread Constraints distribute pods across nodes and availability zones.
