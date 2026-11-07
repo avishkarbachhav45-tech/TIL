@@ -1473,3 +1473,8 @@ small things I learn about programming.
 
 ## Day 294
 - Learned how Kubernetes Topology Spread Constraints distribute pods across nodes and availability zones.
+
+#
+
+## Day 295
+- Learned how Kubernetes HPA uses resource, custom, and external metrics to scale workloads.
