@@ -1478,3 +1478,8 @@ small things I learn about programming.
 
 ## Day 295
 - Learned how Kubernetes HPA uses resource, custom, and external metrics to scale workloads.
+
+#
+
+## Day 296
+- Learned how Kubernetes Admission Controllers validate and modify API requests before resources are stored.
