@@ -1483,3 +1483,8 @@ small things I learn about programming.
 
 ## Day 296
 - Learned how Kubernetes Admission Controllers validate and modify API requests before resources are stored.
+
+#
+
+## Day 297
+- Learned how Kubernetes certificate rotation maintains secure communication between cluster components.
