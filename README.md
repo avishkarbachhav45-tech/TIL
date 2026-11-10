@@ -1488,3 +1488,8 @@ small things I learn about programming.
 
 ## Day 297
 - Learned how Kubernetes certificate rotation maintains secure communication between cluster components.
+
+#
+
+## Day 298
+- Learned how to back up and restore Kubernetes cluster state using etcd snapshots.
