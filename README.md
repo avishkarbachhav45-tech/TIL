@@ -1493,3 +1493,8 @@ small things I learn about programming.
 
 ## Day 298
 - Learned how to back up and restore Kubernetes cluster state using etcd snapshots.
+
+#
+
+## Day 299
+- Learned how Kubernetes CRDs extend the API with custom resource types.
