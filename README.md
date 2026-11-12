@@ -1498,3 +1498,8 @@ small things I learn about programming.
 
 ## Day 299
 - Learned how Kubernetes CRDs extend the API with custom resource types.
+
+#
+
+## Day 300
+- Learned how Kubernetes Operators automate application management using custom resources and controllers.
