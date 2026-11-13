@@ -1503,3 +1503,8 @@ small things I learn about programming.
 
 ## Day 300
 - Learned how Kubernetes Operators automate application management using custom resources and controllers.
+
+#
+
+## Day 301
+- Learned how Kubernetes Finalizers ensure cleanup operations are completed before resources are deleted.
