@@ -1508,3 +1508,8 @@ small things I learn about programming.
 
 ## Day 301
 - Learned how Kubernetes Finalizers ensure cleanup operations are completed before resources are deleted.
+
+#
+
+## Day 302
+- Learned how Kubernetes Owner References establish relationships between resources and support automatic garbage collection.
