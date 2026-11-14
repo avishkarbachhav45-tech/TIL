@@ -1513,3 +1513,8 @@ small things I learn about programming.
 
 ## Day 302
 - Learned how Kubernetes Owner References establish relationships between resources and support automatic garbage collection.
+
+#
+
+## Day 303
+- Learned how Kubernetes Leases support leader election, coordination, and node heartbeats.
