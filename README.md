@@ -1523,3 +1523,8 @@ small things I learn about programming.
 
 ## Day 304
 - Learned how the QUIC protocol improves connection speed, security, and performance for HTTP/3.
+
+#
+
+## Day 305
+- Learned how Git Submodules help manage external repositories as dependencies within a project.
