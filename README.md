@@ -1518,3 +1518,8 @@ small things I learn about programming.
 
 ## Day 303
 - Learned how Kubernetes Leases support leader election, coordination, and node heartbeats.
+
+#
+
+## Day 304
+- Learned how the QUIC protocol improves connection speed, security, and performance for HTTP/3.
