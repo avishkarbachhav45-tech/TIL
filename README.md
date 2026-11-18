@@ -1528,3 +1528,8 @@ small things I learn about programming.
 
 ## Day 305
 - Learned how Git Submodules help manage external repositories as dependencies within a project.
+
+#
+
+## Day 306
+- Learned how Git Notes attach additional information to commits without changing their commit history.
