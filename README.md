@@ -1533,3 +1533,8 @@ small things I learn about programming.
 
 ## Day 306
 - Learned how Git Notes attach additional information to commits without changing their commit history.
+
+#
+
+## Day 307
+- Learned how Git Worktree Prune cleans up stale metadata from deleted worktrees.
