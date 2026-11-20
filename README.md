@@ -1538,3 +1538,8 @@ small things I learn about programming.
 
 ## Day 307
 - Learned how Git Worktree Prune cleans up stale metadata from deleted worktrees.
+
+#
+
+## Day 308
+- Learned how Linux Kernel Modules extend kernel functionality and can be dynamically loaded or removed.
