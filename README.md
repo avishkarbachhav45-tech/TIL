@@ -1543,3 +1543,8 @@ small things I learn about programming.
 
 ## Day 308
 - Learned how Linux Kernel Modules extend kernel functionality and can be dynamically loaded or removed.
+
+#
+
+## Day 309
+- Learned how Linux Swap Space helps manage memory pressure when physical RAM is limited.
