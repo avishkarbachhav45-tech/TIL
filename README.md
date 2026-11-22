@@ -1548,3 +1548,8 @@ small things I learn about programming.
 
 ## Day 309
 - Learned how Linux Swap Space helps manage memory pressure when physical RAM is limited.
+
+#
+
+## Day 310
+- Learned how Linux `mmap()` maps files or memory into a process's virtual address space.
