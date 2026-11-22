@@ -1553,3 +1553,8 @@ small things I learn about programming.
 
 ## Day 310
 - Learned how Linux `mmap()` maps files or memory into a process's virtual address space.
+
+#
+
+## Day 311
+- Learned how the Linux OOM Killer terminates processes to handle memory exhaustion and protect system stability.
