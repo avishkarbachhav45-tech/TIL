@@ -1563,3 +1563,8 @@ small things I learn about programming.
 
 ## Day 312
 - Learned how Linux Huge Pages improve memory management for memory-intensive applications.
+
+#
+
+## Day 313
+- Learned what causes a Linux Kernel Panic and how kernel crash diagnostics help identify critical system failures.
