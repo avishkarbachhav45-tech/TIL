@@ -1558,3 +1558,8 @@ small things I learn about programming.
 
 ## Day 311
 - Learned how the Linux OOM Killer terminates processes to handle memory exhaustion and protect system stability.
+
+#
+
+## Day 312
+- Learned how Linux Huge Pages improve memory management for memory-intensive applications.
