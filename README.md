@@ -1568,3 +1568,8 @@ small things I learn about programming.
 
 ## Day 313
 - Learned what causes a Linux Kernel Panic and how kernel crash diagnostics help identify critical system failures.
+
+#
+
+## Day 314
+- Learned how the Linux Kernel Scheduler manages CPU time and scheduling policies for processes and threads.
