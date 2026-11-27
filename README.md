@@ -1573,3 +1573,8 @@ small things I learn about programming.
 
 ## Day 314
 - Learned how the Linux Kernel Scheduler manages CPU time and scheduling policies for processes and threads.
+
+#
+
+## Day 315
+- Learned how Linux I/O Scheduling manages disk requests to improve storage performance and responsiveness.
